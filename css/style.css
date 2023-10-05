@@ -1,0 +1,107 @@
+.btn-body-top {
+    background-color: #000000;
+    border: none;
+    overflow: hidden;
+    height: 50px;
+    transition: height 0.3s, background-color 0.3s;
+}
+.btn-outline-success:hover{
+    background-color: #28a745; /* Change to your desired background color when hovered */
+    color: #fff; /* Change to your desired text color when hovered */
+    border-color: #28a745; /* Change to your desired border color when hovered */
+}
+.nav-color{
+    background-color: #f4fbf6;
+}
+.btn-body-top:hover {
+    background-color: #5bd75b;
+
+}
+
+.banner-bg{
+    background-image: url(../image/aboutUs/about/shape-8.png);
+ 
+}
+.banner-bg h1{
+    color: #2C2C2C;
+    font-family: "Jost", sans-serif;
+    font-weight: 600;
+}
+.btn-body-tertiary {
+    background-color: #E0E0E0;
+    border: none;
+    overflow: hidden;
+    height: 50px;
+    transition: height 0.3s, background-color 0.3s;
+}
+
+.btn-body-tertiary:hover {
+    background-color: #5bd75b;
+
+}
+
+.navbar-nav .nav-item:hover .nav-link.active:hover {
+  background-color: #5bd75b; 
+}
+.navbar-nav .nav-item:hover .nav-link.active{
+  color: #5bd75b; 
+}
+.navbar-nav .nav-item:hover .nav-link:hover {
+  background-color: #5bd75b; 
+}
+
+.introduction{
+    margin: 100px 0px 100px 100px;
+}
+.introduction h1{
+    color: #2C2C2C;
+    font-family: "Jost", sans-serif;
+    font-weight: 600;
+}
+
+.introduction p{
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    color: #666666;
+    line-height: 1.8;
+}
+
+.what-we-do{
+    color: #28aa4a;
+}
+.counter h1{
+    color: #2C2C2C;
+    font-family: "Jost", sans-serif;
+    font-weight: 600;
+}
+
+.counter-hour{
+    padding: 100px;
+}
+.about-text:hover{
+color: #28a745;
+}
+
+.service{
+ background-color: #d9ecd9;
+}
+.works-bg{
+    background-image: url("../image/works/shape-2.png");
+}
+
+
+
+.date{
+    height: 75px;
+    width: 70px;
+}
+
+.custom-text-box {
+    background-color: white;
+    color: black;
+    border: none;
+  }
+
+  .custom-text-box::placeholder {
+    color: black /* Placeholder text color */
+  }
